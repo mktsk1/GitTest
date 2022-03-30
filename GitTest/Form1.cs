@@ -31,5 +31,10 @@ namespace GitTest
         {
             MessageBox.Show("메세지3");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("메세지4");
+        }
     }
 }
