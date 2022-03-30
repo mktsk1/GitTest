@@ -24,7 +24,7 @@ namespace GitTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("메세지2");
         }
     }
 }
